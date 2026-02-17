@@ -1,113 +1,53 @@
-# Hi there, I'm Aman Bajpey 👋
+# Hi there, I'm <a href="https://amanbajpey.rf.gd/?i=1" target="_blank"> Aman Bajpey </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
-
-## 🌐 Connect with me:
+## _🌐 Connect with me:_
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aman-bajpey-199565351" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://amanbajpey.rf.gd/?i=1" target="_blank"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:bajpeyaman16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/bajpeyaman16" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 ---
 
-## 💻 About Me:
-Diploma holder in Computer Science and Engineering, currently pursuing B.Tech (CSE).  
-Experienced in developing and deploying web and mobile applications using React Native, React, Flutter, and MySQL.  
-Enthusiastic about contributing to fast-paced development teams and building impactful products.
+## _💻 Competitive Programming:_
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/bajpeyaman16"><img src="https://img.shields.io/badge/CodeChef-%2364371b?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/profile/bajpeyaman16" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%231BA94C?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=ffa116" alt="LeetCode Profile"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.geeksforgeeks.org/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile"></a>
 
 ---
 
-## 🛠 Tech Stack:
+## _🛠 Tech Stack:_
 
-### 📝 Web Technologies:
-<img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
+#### &nbsp;&nbsp;&nbsp;&nbsp;📝WebTech: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-437CAC?logo=JavaScript&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-PHP-8C8C8C?logo=php&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-React-0E7ACE?logo=React&logoColor=white&style=flat">&nbsp;
 
-### 📱 Mobile Development:
-<img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat">&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bajpeyaman16&theme=dark" min-width="300px" max-width="300px" width="350px" align="right">   
+
+#### &nbsp;&nbsp;&nbsp;&nbsp; 📚Frameworks & Mobile:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat">&nbsp;
 
-### 🗄 Database:
-<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat">&nbsp;
-
-### 💻 Programming Languages:
-<img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat">&nbsp;
+#### &nbsp;&nbsp;&nbsp;&nbsp; 💻Languages: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-3776AB?logo=javascript&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat">&nbsp;
 
-### 🧰 Tools:
-<img src="https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white&style=flat">&nbsp;
+#### &nbsp;&nbsp;&nbsp;&nbsp; 🧰Tools & Platforms: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-VS%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white&style=flat">&nbsp;
 
 ---
 
-## 💼 Experience:
-
-### Full Stack Developer Intern | Project Manager  
-📍 Rishishwar Industry Pvt. Ltd.  
-🗓 23 Apr 2025 – 15 Oct 2025  
-
-- Developed Unnati Wires Project using HTML, CSS, JavaScript, PHP, MySQL  
-- Built Campus Project using React & MongoDB  
-- Conducted software testing in Ventures Project  
-- Improved UI & responsiveness in Gateman Project  
-
----
-
-## 🚀 Projects:
-
-### 🔹 Personal Portfolio Website  
-HTML, CSS, JavaScript  
-- Dark mode toggle  
-- AOS & GSAP animations  
-- Downloadable CV  
-- SEO optimized  
-
-### 🔹 Student Management System  
-HTML, CSS, Bootstrap, JavaScript, PHP, MySQL  
-- Role-based login system  
-- CRUD operations  
-- Secure data handling  
-
-### 🔹 Heritage Tourism Mobile App  
-React Native, Firebase  
-- Authentication  
-- Real-time location tracking  
-- Interactive map  
-- Personalized suggestions  
-
-### 🔹 Voice-Controlled Music App  
-Flutter, Dart  
-- Mood-based voice detection  
-- Biometric login  
-- Built-in music composer  
-
----
-
-## 🌍 Languages:
-English | Hindi  
-
-## 💪 Strengths:
-Teamwork | Time Management | Adaptability | Quick Learning  
-
-## 🎯 Hobbies:
-Reading about Technology  
-Exploring Web & App Technologies  
-Solving Coding Challenges  
-Watching Tech Documentaries  
-
----
-
-## ⚙️ GitHub Analytics:
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bajpeyaman16&theme=dark&hide_border=false" height="150">
-  <img src="https://github-readme-stats.vercel.app/api?username=bajpeyaman16&show_icons=true&theme=dark" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajpeyaman16&layout=compact&theme=dark" height="150">
+## _⚙️ GitHub Analytics:_
+<div align="center" style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bajpeyaman16&theme=dark&hide_border=false" style="margin: 10px; border: 2px solid white; height: 140px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajpeyaman16&theme=dark&layout=compact" style="margin: 10px; border: 2px solid white; height: 140px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=bajpeyaman16&show_icons=true&theme=dark" style="margin: 10px; border: 2px solid white; height: 140px;">
 </div>
